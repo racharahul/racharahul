@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi there, I'm Rahul<br><br>### 💻 Aspiring Software Engineer | DevOps Enthusiast | Tech Explorer<br><br>I’m passionate about building scalable backend systems, exploring DevOps tools, and creating real-world projects that teach me something new every day.<br><br>### 📫 Let’s Connect!<br>- 📧 Email: racharahul456@gmail.com<br>- 🔗 LinkedIn: https://www.linkedin.com/in/racha-rahul-vadlakunta-600814152/<br>- 🌐 Portfolio: COMING SOON!<br>---<br><br>> "Code. Break. Learn. Repeat." 🚀<br>
+# 👋 Hi there, I'm Rahul<br><br>### 💻 Aspiring Software Engineer | DevOps Enthusiast | Tech Explorer<br><br>I’m passionate about building scalable backend systems, exploring DevOps tools, and creating real-world projects that teach me something new every day.<br><br>### "Code. Break. Learn. Repeat." 🚀<br>
 
 
 ## 🌐 Socials:
